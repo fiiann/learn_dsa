@@ -1,3 +1,5 @@
+package com.fian.learn.coding.pattern;
+
 public class Pattern {
 //    case 1
     static void pattern1(int jumlah){
